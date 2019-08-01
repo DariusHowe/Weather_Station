@@ -1,0 +1,24 @@
+Name What do you want to Name your brand new Weather Station?
+Size First things first, How many weather readings do you want to enter?
+SizeTwice Lets Try this again, How many weather readings do you want to enter?
+Pane What would you like to do first?!
+Reading 1: Enter the Weather Reading
+Recent 2: Print Weather
+Total 3: Print Weather History
+Bye 4: Exit
+Filled You have filled your alloted memory. Please exit the Program when prompted and thank you!
+Error No go no go!
+Error2 OOOOOWAHHHHHHH YOU CHEAAATINNNNNNGGGGGGGGGGG
+Welcome1 Welcome to the  
+Welcome2 Weather Station on the BlackBoi Network!
+Werido ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Farewell Thanks for tuning into the BlackBoi News network! Goodnight and stay safe
+Bad Not today my guy... Try that again please!
+Tempy So whats the weather like outside in degrees?
+WR1 Current Temperature is: 
+WR2  degrees Fahrenheit
+WS1 The wind speed is currently: 
+WD1  mph at a direction 
+Speed How strong are the winds (Enter a number please)?
+Direct What direction is the wind Blowing?
+Explain Example: North or north
