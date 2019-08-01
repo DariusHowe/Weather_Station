@@ -12,7 +12,7 @@
 
 
 using namespace std;
-
+//Creates a Referene for our Servers Class called Servers with a var value of 0
 Servers *Servers::var=0;
 map<string, string> Servers::language;
 
